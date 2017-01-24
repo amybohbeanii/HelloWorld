@@ -1,1 +1,1 @@
-This is the simple Hello World all beginners should learn in various programming languages.
+This is the simple Hello World program all beginners should learn in various programming languages.
